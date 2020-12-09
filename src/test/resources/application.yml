@@ -1,0 +1,5 @@
+ribbon.eureka.enabled: false
+spring.cloud.discovery.enabled: false
+
+
+feign.httpclient.disableSslValidation: true
